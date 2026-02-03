@@ -1,3 +1,19 @@
+# Virtual Environment
 .venv/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Environment variables / secrets
 .env
+
+# Streamlit cache
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
